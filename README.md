@@ -1,3 +1,3 @@
 # Depi_Ass1
 
-## project nodes
+## project notes
